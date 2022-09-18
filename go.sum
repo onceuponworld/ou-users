@@ -10,3 +10,17 @@ github.com/onceuponworld/ouw-sdk v0.0.0-20220914025104-98528e535534 h1:VRQhFfMKw
 github.com/onceuponworld/ouw-sdk v0.0.0-20220914025104-98528e535534/go.mod h1:Xw4X/spP1tOh1Jnp/iOoifZof0fpmQZ98JcELP59e2U=
 github.com/onceuponworld/ouw-sdk v0.0.0-20220914064834-0264ec9d1071 h1:mp+xB8/ijp5cAl2drM/nx9bMtLZgVj+NoOBi1gedG1g=
 github.com/onceuponworld/ouw-sdk v0.0.0-20220914064834-0264ec9d1071/go.mod h1:Xw4X/spP1tOh1Jnp/iOoifZof0fpmQZ98JcELP59e2U=
+github.com/onceuponworld/ouw-sdk v0.0.0-20220914110332-d92360d92d8a h1:80aLdn0y5a0ZRXtTNqA0M8V9CyYhmD4R32qQN73gr5c=
+github.com/onceuponworld/ouw-sdk v0.0.0-20220914110332-d92360d92d8a/go.mod h1:Xw4X/spP1tOh1Jnp/iOoifZof0fpmQZ98JcELP59e2U=
+github.com/onceuponworld/ouw-sdk v0.0.0-20220914134435-13d7e2719482 h1:q8UyOUmYQZsMl76j+6MuonzOjv6/H8SOY9J+Yjxl6FA=
+github.com/onceuponworld/ouw-sdk v0.0.0-20220914134435-13d7e2719482/go.mod h1:Xw4X/spP1tOh1Jnp/iOoifZof0fpmQZ98JcELP59e2U=
+github.com/onceuponworld/ouw-sdk v0.0.0-20220917012923-5a15073acb12 h1:+KPBejNyIo4VK4O+jtrnaw+FDUBqAvpd7tG+8CMCQwA=
+github.com/onceuponworld/ouw-sdk v0.0.0-20220917012923-5a15073acb12/go.mod h1:Xw4X/spP1tOh1Jnp/iOoifZof0fpmQZ98JcELP59e2U=
+github.com/onceuponworld/ouw-sdk v0.0.0-20220917013310-3ea0ceb3ddd1 h1:SHyChTG5JCro+zuNdZMlLOvYsGLifxnoBw1oA2nROF0=
+github.com/onceuponworld/ouw-sdk v0.0.0-20220917013310-3ea0ceb3ddd1/go.mod h1:Xw4X/spP1tOh1Jnp/iOoifZof0fpmQZ98JcELP59e2U=
+github.com/onceuponworld/ouw-sdk v0.0.0-20220917013825-f3fe620d4439 h1:q40zdn0+naGRkuksBRx3u02fDV0I0QF3g/f3+fCx2tI=
+github.com/onceuponworld/ouw-sdk v0.0.0-20220917013825-f3fe620d4439/go.mod h1:Xw4X/spP1tOh1Jnp/iOoifZof0fpmQZ98JcELP59e2U=
+github.com/onceuponworld/ouw-sdk v0.0.0-20220917014630-1dfd950c1114 h1:WFxvnGvyI1eVFuWJDLGwaKD8Vj8t+4gkR6o6vbhICqo=
+github.com/onceuponworld/ouw-sdk v0.0.0-20220917014630-1dfd950c1114/go.mod h1:Xw4X/spP1tOh1Jnp/iOoifZof0fpmQZ98JcELP59e2U=
+github.com/onceuponworld/ouw-sdk v0.0.0-20220917014909-0d538937238e h1:8XASxrl5ENNQ4scAe8fNE5LwpHNgQCGqBo5GwKXpQIc=
+github.com/onceuponworld/ouw-sdk v0.0.0-20220917014909-0d538937238e/go.mod h1:Xw4X/spP1tOh1Jnp/iOoifZof0fpmQZ98JcELP59e2U=

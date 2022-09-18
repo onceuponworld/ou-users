@@ -2,7 +2,7 @@ module github.com/onceuponworld/ouw-users
 
 go 1.17
 
-require github.com/onceuponworld/ouw-sdk v0.0.0-20220914064834-0264ec9d1071
+require github.com/onceuponworld/ouw-sdk v0.0.0-20220917014909-0d538937238e
 
 require (
 	github.com/cespare/xxhash/v2 v2.1.2 // indirect
